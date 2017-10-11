@@ -1,3 +1,3 @@
 # liuhui-CV
-this is a simple Curriculum Vitae
-The project is coming
+this is a simple Curriculum Vitae<br />
+The project is coming...
