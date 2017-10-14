@@ -1,11 +1,11 @@
 # liuhui-CV
 this is a simple Curriculum Vitae<br />
 
-##Resume display
+## Resume display
 
-![](./res/cv.png)
+![](./res/cv.png =240x350)
 
-##other
+## other
 
 cv.PDF<br />
 cv.psd
