@@ -1,3 +1,11 @@
 # liuhui-CV
 this is a simple Curriculum Vitae<br />
-The project is coming...
+
+##Resume display
+
+![](./res/cv.png)
+
+##other
+
+cv.PDF<br />
+cv.psd
